@@ -4,6 +4,7 @@ In this repository, I reviewed basic ML algorithms solving the binary classifica
 - CatBoost;
 - Support Vector Machine;
 - Naive Bayes.
+
 GridSearch was used to fit the parameters of each of the algorithms. The best quality metrics showed:
 1) Logistic Regression;
 2) Random Forest;
